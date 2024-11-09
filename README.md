@@ -8,3 +8,4 @@ The project's goal is to offer a prototype to digitalize elections which could b
 - **Console Application**: A simple, interactive command-line interface for a quick and easy experience.
 
 
+

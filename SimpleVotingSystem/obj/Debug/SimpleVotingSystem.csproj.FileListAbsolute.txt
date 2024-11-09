@@ -1,7 +1,0 @@
-C:\Users\CASPER\Desktop\SimpleVotingSystem\bin\Debug\SimpleVotingSystem.exe.config
-C:\Users\CASPER\Desktop\SimpleVotingSystem\bin\Debug\SimpleVotingSystem.exe
-C:\Users\CASPER\Desktop\SimpleVotingSystem\bin\Debug\SimpleVotingSystem.pdb
-C:\Users\CASPER\Desktop\SimpleVotingSystem\obj\Debug\SimpleVotingSystem.csproj.AssemblyReference.cache
-C:\Users\CASPER\Desktop\SimpleVotingSystem\obj\Debug\SimpleVotingSystem.csproj.CoreCompileInputs.cache
-C:\Users\CASPER\Desktop\SimpleVotingSystem\obj\Debug\SimpleVotingSystem.exe
-C:\Users\CASPER\Desktop\SimpleVotingSystem\obj\Debug\SimpleVotingSystem.pdb

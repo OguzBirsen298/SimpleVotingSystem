@@ -7,7 +7,7 @@ The project's goal is to offer a prototype to digitalize elections which could b
 - **Real-time Percentages**: After each vote, the program calculates and displays the percentage of votes each candidate has received.
 - **Console Application**: A simple, interactive command-line interface for a quick and easy experience.
 # Installation
-- **For C# Version**: Open the folder named C# Version in this repo and download all the files
+- **For C# Version**: Open the folder named C# Version in this repo then download the file named Program.cs. After that you can either run it on a C# online compiler or 
 
 
 

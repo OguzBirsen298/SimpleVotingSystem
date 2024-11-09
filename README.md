@@ -25,7 +25,7 @@ Candidate B: 0.00%
 
 ```
 # Contributors:
--**For C# Part**: https://github.com/OguzBirsen298
+-**For C# Version**: https://github.com/OguzBirsen298
 
 
 

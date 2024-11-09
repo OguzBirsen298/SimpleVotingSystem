@@ -6,9 +6,9 @@ The project's goal is to offer a prototype to digitalize elections which could b
 - **Vote Calculation**: The application tracks the number of votes for each candidate.
 - **Real-time Percentages**: After each vote, the program calculates and displays the percentage of votes each candidate has received.
 - **Console Application**: A simple, interactive command-line interface for a quick and easy experience.
-# Installation
+# Installation for C#
 - For the installation, you can either use any online compiler that you wish, for that you just have to copy "Program.cs" file that is under "C# Version" folder, or you can also use Visual Studio by clicking the green "Code" button and select "Open with Visual Studio". In Visual Studio you can find "Program.cs" under the "SimpleVotingSystem" file and run it.
-### Example:
+### Example for C# Version:
 
 ```plaintext
 Welcome to the Voting System!
@@ -25,7 +25,7 @@ Candidate B: 0.00%
 
 ```
 # Contributors:
-https://github.com/OguzBirsen298
+-**For C# Part**: https://github.com/OguzBirsen298
 
 
 

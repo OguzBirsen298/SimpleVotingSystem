@@ -4,6 +4,7 @@
 - [Installation](#installation)
   - [Installation For C#](#installation_for_c#)
   - [Installation For JS](#installation_for_js)
+  - [Installation For PY](#installation_for_py)
 - [Example Input For Usage](#example_input_for_usage)
 - [Contributors](#contributors)
 
@@ -34,6 +35,7 @@ The project's goal is to offer a prototype to digitalize elections which could b
 - Third change directory to "JavaScript Version" folder
 - Lastly run ```npm start ```
 
+## <a name="installation_for_py"></a> Installation For PY
 
 ## <a name="example_input_for_usage"></a> Example Input For Usage
 

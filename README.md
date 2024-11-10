@@ -90,6 +90,7 @@ Candidate B: 0.00%
 # <a name="contributors"></a> Contributors #
 - **For C# Version**: https://github.com/OguzBirsen298
 - **For JS Version**: https://github.com/huseyinCode
+- **For PY Version**: https://github.com/mustafaaokutaan
 
 
 

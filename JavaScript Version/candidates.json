@@ -1,0 +1,19 @@
+{
+  "candidates": [
+    {
+      "name": "ada",
+      "vote": 0,
+      "Cv": "se student"
+    },
+    {
+      "name": "aaa",
+      "vote": 0,
+      "Cv": "cs student"
+    },
+    {
+      "name": "aba",
+      "vote": 0,
+      "Cv": "ai student"
+    }
+  ]
+}

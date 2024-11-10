@@ -29,7 +29,10 @@ The project's goal is to offer a prototype to digitalize elections which could b
 
 
 ## <a name="installation_for_js"></a> Installation For JS
--
+- First install node.js and npm
+- Second clone the repository 
+- Third change directory to "JavaScript Version" folder
+- Lastly run ```npm start ```
 
 
 ## <a name="example_input_for_usage"></a> Example Input For Usage

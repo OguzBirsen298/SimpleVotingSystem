@@ -1,19 +1,19 @@
 {
   "candidates": [
     {
-      "name": "ada",
+      "name": "Monte Carlo",
       "vote": 0,
-      "Cv": "se student"
+      "Cv": "Economist"
     },
     {
-      "name": "aaa",
+      "name": "Adreno lema",
       "vote": 0,
-      "Cv": "cs student"
+      "Cv": "Programmer"
     },
     {
       "name": "aba",
       "vote": 0,
-      "Cv": "ai student"
+      "Cv": "Musician"
     }
   ]
 }

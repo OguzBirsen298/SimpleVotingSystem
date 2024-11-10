@@ -1,6 +1,9 @@
 # Table Of Contents
 - [SimpleVotingSystem](#SimpleVotingSystem)
-
+- [Features](#Features)
+- [Installation for C#](#InstallationforC#)
+- [Example for C# Version](#ExampleforC#Version)
+- [Contributors](#Contributors)
 
 
 # SimpleVotingSystem

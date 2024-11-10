@@ -1,0 +1,12 @@
+{
+  "name": "voting_system",
+  "version": "1.0.0",
+  "main": "SimpleVotingSystem.js",
+  "scripts": {
+    "start": "node SimpleVotingSystem.js"
+  },
+  "keywords": [],
+  "author": "huseyinCode",
+  "description": "An Voting System That Also Calculates Percentage",
+  "license": "ISC"
+}

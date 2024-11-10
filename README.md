@@ -36,6 +36,40 @@ The project's goal is to offer a prototype to digitalize elections which could b
 - Lastly run ```npm start ```
 
 ## <a name="installation_for_py"></a> Installation For PY
+To run this project in Python, follow these steps:
+
+Make sure you have Python installed on your computer. You can download it from python.org.
+Clone or download the project files from the repository.
+Open a terminal or command prompt and navigate to the folder where the files are located.
+
+## <a name="installation_for_py"></a> Installation For PY
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/username/repository-name.git
+   cd repository-name
+
+ 2.  **Set Up a Virtual Environment**
+
+      `source venv/bin/activate`    `# On macOS/Linux`
+   
+      `venv\Scripts\activate`        `# On Windows`
+   
+
+ 3.  **Install Dependencies**
+     
+      `pip install -r requirements.txt`
+
+
+  4.  **Run the Project**  
+      `python main.py`
+
+
+  5. **Additional Configuration**  
+      Make sure to replace:
+   - `https://github.com/username/repository-name.git` with the actual URL of your repository.
+   - `main.py` with the name of your project's entry point script if different.
+   - Include any extra setup instructions relevant to your project.
+
 
 ## <a name="example_input_for_usage"></a> Example Input For Usage
 

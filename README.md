@@ -42,7 +42,6 @@ The project's goal is to offer a prototype to digitalize elections which could b
 - Clone or download the project files from the repository.
 - Open a terminal or command prompt and navigate to the folder where the files are located.
 
-## <a name="installation_for_py"></a> Installation For PY
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/username/repository-name.git

@@ -32,7 +32,7 @@ The project's goal is to offer a prototype to digitalize elections which could b
 -
 
 
-# ## <a name="example_input_for_usage"></a> Example Input For Usage
+## <a name="example_input_for_usage"></a> Example Input For Usage
 
 ```plaintext
 Welcome to the Voting System!
@@ -48,7 +48,7 @@ Candidate A: 100.00%
 Candidate B: 0.00%
 
 ```
-# # <a name="contributors"></a> Contributors #
+# <a name="contributors"></a> Contributors #
 - **For C# Version**: https://github.com/OguzBirsen298
 - **For JS Version**: https://github.com/huseyinCode
 
